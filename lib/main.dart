@@ -24,7 +24,7 @@ class PortfolioApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'My Portfolio',
       theme: themeProvider.lightTheme,
-       //theme: themeProvider.darkTheme,
+      //theme: themeProvider.darkTheme,
       darkTheme: themeProvider.darkTheme,
       themeMode: themeProvider.themeMode,
       home: const HomeScreen(),
