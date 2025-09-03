@@ -5,7 +5,7 @@ Flutter Portfolio – by [@bhartisahu09](https://github.com/bhartisahu09)
 [![Flutter 3](https://img.shields.io/badge/Flutter-3.32-02569b.svg?style=flat-square&logo=flutter&logoColor=13b9fd)](https://flutter.dev/)
 [![Dart 3](https://img.shields.io/badge/Dart-3.8-0175c2.svg?style=flat-square&logo=dart&logoColor=13b9fd)](https://dart.dev/)
 
-## [Live Preview](https://bharti.dev) 👀
+## [Live Preview](https://bhartisahu.netlify.app/) 👀
 
 <img src="assets/portfolio_img.png" width="100%"></img>
 
